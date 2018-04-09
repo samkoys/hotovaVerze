@@ -1,2 +1,0 @@
-# hotovaVerze
-final
